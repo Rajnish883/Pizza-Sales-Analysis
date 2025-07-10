@@ -35,7 +35,7 @@ This end-to-end data analytics project explores a full year of pizza sales data 
 
 ## 👨‍💻 Author
 **Rajnish Singh**  
-📬 [LinkedIn]([ttps://www.linkedin.com/in/rajnish-singh-1b0946214/]) | 📧 your.email@example.com  Rajnish41099@gmail.com
+📬 [LinkedIn](https://linkedin.com/in/rajnish-singh-1b0946214/) | 📧 Rajnish41099@gmail.com 
 💬 Always open to feedback, collaboration, and job opportunities in the field of data analytics.
 
 ## 📸 Screenshots
